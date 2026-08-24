@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "bookmark-manager-local": {
+      "command": "/absolute/path/to/mcp_server/.venv/Scripts/python.exe",
+      "args": [
+        "/absolute/path/to/mcp_server/server.py"
+      ]
+    },
+    "bookmark-manager-remote": {
+      "type": "http",
+      "url": "https://<your-render-service>.onrender.com/mcp"
+    }
+  }
+}
