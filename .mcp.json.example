@@ -8,7 +8,7 @@
     },
     "bookmark-manager-remote": {
       "type": "http",
-      "url": "https://<your-render-service>.onrender.com/mcp"
+      "url": "https://mcp-demo-pzap.onrender.com/mcp"
     }
   }
 }
